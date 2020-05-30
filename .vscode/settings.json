@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.snippetSuggestions": "top",
+  "editor.quickSuggestions": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.includeLanuages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.excludeLanguages": ["markdown"],
+  "window.zoomLevel": 0,
+  "emmet.syntaxProfiles": {},
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.preferences": {},
+  "files.associations": { "html": "html" }
+}
